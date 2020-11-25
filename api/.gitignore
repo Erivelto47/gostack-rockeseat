@@ -3,5 +3,3 @@ dist
 node_modules
 
 yarn-error.log
-temp/*
-!tmp/.gitkeep
